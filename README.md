@@ -1,12 +1,12 @@
-# Simple Calculator (HTML Only So Far)
+# Simple Calculator (HTML and Css So Far)
 
-This project is a basic calculator layout built using HTML.
+This project is a basic calculator layout built using HTML and CSS
 
 ##  Completed
 - HTML structure with display and buttons
+- CSS for layout and styling
 
 ##  Next Steps
-- Add CSS for layout and styling
 - Add JavaScript for functionality (calculations)
 
 ##  How to View
