@@ -1,13 +1,12 @@
-# Simple Calculator (HTML and Css So Far)
+# Simple Calculator
 
-This project is a basic calculator layout built using HTML and CSS
+This project is a basic calculator built using HTML, CSS, and JavaScript.
 
-##  Completed
-- HTML structure with display and buttons
-- CSS for layout and styling
+## Features
+- Responsive calculator layout
+- Styled buttons and display
+- Supports basic math operations: addition, subtraction, multiplication, and division
+- Clear (`C`) and equals (`=`) functionality
 
-##  Next Steps
-- Add JavaScript for functionality (calculations)
-
-##  How to View
-Open `index.html` in your browser
+## How to Use
+Open `index.html` in your browser and use the calculator interface.
